@@ -11,16 +11,15 @@ Analyse the transcript excerpt and identify its most viral-worthy moments based 
   • Anything that would make a viewer stop scrolling
 
 Timestamps in the transcript are in HH:MM:SS.mmm format.
-For each moment, estimate an end timestamp that makes for a complete, satisfying clip
-(typically 30–90 seconds after the start).
+For each best moment, estimate an end timestamp that makes for a complete, satisfying clip (which I want to be 30–90 seconds in duration).
 
-Return ONLY a JSON object with a single key "moments" whose value is an array.
+Return ONLY a JSON object with a single key called "moments" whose value is an array.
 Each element must have:
   start_timestamp    – exact timestamp from the transcript
   end_timestamp      – estimated clip end (HH:MM:SS.mmm)
   title              – catchy clip title, ≤ 60 characters
   hook               – opening line / key quote, ≤ 150 characters
   why_viral          – brief reason this will perform well, ≤ 200 characters
-  platforms          – array of best platforms e.g. ["TikTok","Instagram Reels","YouTube Shorts","X","LinkedIn","Facebook Reels"]
+  target_platforms   – array of best platforms to post it e.g. ["TikTok","Instagram Reels","YouTube Shorts","X","LinkedIn","Facebook Reels"]
   virality_score     – integer 1–10
   clip_duration_secs – estimated integer clip duration in seconds
