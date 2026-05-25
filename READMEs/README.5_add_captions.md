@@ -28,3 +28,7 @@ The `nca-toolkit` folder holds several utility Python that you can add into your
 ```sh
 python3 -m http.server 9000 --directory ~/src/actual_projects/MARKETING_AUTOMATION/nca-toolkit-fork/media
 ```
+
+### Regarding fixing issues with generated captions
+
+Fix any issues by prompting Claude Code
