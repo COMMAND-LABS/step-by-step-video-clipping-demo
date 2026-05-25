@@ -56,4 +56,4 @@ Steps for using `faster-whisper` to extract transcripts from video
 
 ## Extract transcript from video
 
-- uv run python generate_transcript.py media/parsity_group_call.mp4
+- uv run python 1_generate_transcript.py media/parsity_group_call.mp4

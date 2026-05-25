@@ -1,5 +1,5 @@
 def main():
-    print("Hello from mcsmcs!")
+    print("Hello from video-clipping-system!")
 
 
 if __name__ == "__main__":
