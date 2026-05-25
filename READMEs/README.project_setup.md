@@ -1,17 +1,16 @@
 # TLDR
 
-Steps for setting up a project that uses `faster-whisper` to extract transcripts from videos
+Steps for setting up this project that uses Python + faster-whisper to extract transcripts from videos
 
 ## Reference links
 
 - https://github.com/SYSTRAN/faster-whisper
 - https://docs.astral.sh/uv/
 - https://github.com/openai/whisper
-- https://github.com/MahmoudAshraf97/whisper-diarization
 
 ## HIGH LEVEL STEPS
 
-- Download uv
+- Download uv onto your machine
 - Install ffmpeg
 - Install faster-whisper
 - Add video
