@@ -9,10 +9,10 @@ import json
 import subprocess
 from pathlib import Path
 
-VIDEO_FILE = Path(__file__).parent / "media" / "parsity_group_call.mp4"
-MOMENTS_JSON = Path(__file__).parent / "media" / "parsity_group_call.moments.json"
+VIDEO_FILE = Path(__file__).parent / "media" / "zoom_group_call.mp4"
+MOMENTS_JSON = Path(__file__).parent / "media" / "zoom_group_call.moments.json"
 CLIPS_DIR = Path(__file__).parent / "clips"
-PADDING_SEC = 30.0  # extra seconds added before start and after end of each clip
+PADDING_SEC = 20.0  # extra seconds added before start and after end of each clip
 
 
 def hms_to_sec(ts: str) -> float:

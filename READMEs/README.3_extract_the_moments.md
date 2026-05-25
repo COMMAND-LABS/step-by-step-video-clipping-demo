@@ -1,3 +1,3 @@
 # TLDR
 
-`uv run python 3_extract_the_moments.py`
+`uv run python 3_extract_best_moments.py`
