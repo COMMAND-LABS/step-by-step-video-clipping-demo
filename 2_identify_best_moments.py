@@ -11,9 +11,9 @@ import subprocess
 import sys
 from pathlib import Path
 
-TRANSCRIPT_FILE = Path(__file__).parent / "media" / "parsity_group_call.srt"
-OUT_FILE = Path(__file__).parent / "media" / "parsity_group_call.moments.json"
-PROMPT_FILE = Path(__file__).parent / "prompts" / "identify_viral_moments.md"
+TRANSCRIPT_FILE = Path(__file__).parent / "media" / "zoom_group_call.transcript.txt"
+OUT_FILE = Path(__file__).parent / "media" / "zoom_group_call.moments.json"
+PROMPT_FILE = Path(__file__).parent / "prompts" / "identify_best_moments.md"
 
 def main() -> None:
     print(f"[1/4] reading {TRANSCRIPT_FILE.name}", flush=True)
