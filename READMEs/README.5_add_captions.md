@@ -9,7 +9,7 @@ Info regarding the included scripts related to The NCA Toolkit API
 
 ## Info about the provided scripts
 
-The `nca-toolkit` folder holds several utility Python that you can add into your local NCA Toolkit repo
+The `nca-toolkit` folder holds several utility Python that you can add into your local NCA Toolkit repo.
 
 ### For adding captions styled according to a template
 
