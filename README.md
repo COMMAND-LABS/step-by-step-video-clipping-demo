@@ -13,7 +13,7 @@ This is an advanced system and tutorial. Excuse any typos, mispelling, subtle in
 - Docker
 - Tenacity (as in the character trait)
 
-## Overview of steps
+## Overview of Steps
 
 1. Get Transcript
 2. Identify Moments
