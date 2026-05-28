@@ -1,6 +1,6 @@
-# Video Clipping System
+# TLDR
 
-Welcome to the accompanying repo for the "Video Clipping System" walkthrough video!
+Welcome to the accompanying repo for the "Video Clipping" walkthrough video!
 
 ## Disclaimer
 
@@ -23,6 +23,6 @@ This is an advanced system and tutorial. Excuse any typos, mispelling, subtle in
 6. Compilation
 7. Distribution
 
-## Clone Airtable Schema (For Steps 6 & 7)
+## Clone Airtable Schema (for Steps 6 & 7)
 
 https://airtable.com/appUVoAQrSl5zTFJh/shrp7bzpnoI1d1gLl
