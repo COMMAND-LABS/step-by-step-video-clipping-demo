@@ -4,7 +4,14 @@ Welcome to the accompanying repo for the "Video Clipping System" walkthrough vid
 
 ## Disclaimer
 
-This is an advanced system. Experience and familiarity with Python, Claude, and Docker are prereqs. Enjoy! 
+This is an advanced system and tutorial. Excuse any typos, mispelling, subtle inconsistencies. But then again that is what makes it fun!
+
+## Prereqs
+
+- Python
+- Claude
+- Docker
+- Tenacity (as in the character trait)
 
 ## Overview of steps
 
