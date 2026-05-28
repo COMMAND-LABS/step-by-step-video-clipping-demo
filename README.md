@@ -4,7 +4,7 @@ Welcome to the accompanying repo for the "Video Clipping" walkthrough video!
 
 ## Disclaimer
 
-This is an advanced system and tutorial. Excuse any typos, mispelling, subtle inconsistencies. But then again that is what makes it fun!
+This is an advanced system. Excuse any typos, mispelling, subtle inconsistencies. But then again that is what makes it fun!
 
 ## Prereqs
 
