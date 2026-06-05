@@ -5,7 +5,7 @@ Info regarding STEP 7
 ## Gist of how STEP 7 works
 
 - Sign up for Metricool (1-click install below)
-  - You will need the Advance Plan currently priced at $53/month (https://metricool.com/pricing)
+  - You will need the "Advanced" Plan currently priced at $53/month (https://metricool.com/pricing)
 - Connect Claude Desktop with your Metricool via MCP
   - https://help.metricool.com/how-to-connect-metricools-mcp-eqp9h
 - Prompt Claude to put all approved content in Airtable on your content calendar
